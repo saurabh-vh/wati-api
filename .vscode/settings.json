@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.macOptionClickForcesSelection": true,
+    "terminal.integrated.fontSize": 13
+}
